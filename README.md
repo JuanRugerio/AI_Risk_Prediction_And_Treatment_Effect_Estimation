@@ -14,3 +14,7 @@
 ## Stack:
 
 Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, Numpy, Matplotlib
+
+## Results:
+
+![Decision Tree LSTM Comparisson](./DT vs LSTM.jpg)
