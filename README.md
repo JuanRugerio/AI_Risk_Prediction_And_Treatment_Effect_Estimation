@@ -18,3 +18,5 @@ Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, Numpy, Matplotlib
 ## Results:
 
 ![Decision Tree LSTM Comparisson](./DT_vs_LSTM.jpg)
+
+LSTM model always outperforms its peer DT with a same time span of information. Providing larger time spans almost always resulted in better results (excepting the Quarter time span LSTM, which outperformed the 1 year time span LSTM). More granular time resolutions resulted in better performance. The highest performing model, with an AUC of .66, corresponding to the 3 year time span and monthly time resolution LSTM outperformed its peer 3 year time span DT by 14% in AUC value. 
