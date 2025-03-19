@@ -5,7 +5,7 @@
 
  A Shapleý analysis is performed on the initial resulting models. Specifying different Shapley thresholds, features which fulfill or exceed the minimum threshold for the level are selected, and included in subsequent model fits. 
 
- A Bayesian hyperparameter optimization tecnique is applied for hyperparameter tuning, since the model was initially overfitting. 
+ A Bayesian hyperparameter optimization tecnique is applied for hyperparameter tuning, since initial models were displaying overfitting behaviour. 
 
  The LSTM shower clear outperforming results in comparisson to its peer Decision Tree whenever providing models with the same time span, larger time span provision as well as finer time resolution for the LSTM, resulted in better performance. 
 
