@@ -9,4 +9,4 @@
 
  The LSTM showed clear outperforming results in comparisson to its peer Decision Tree whenever providing models with the same time span, larger time span provision as well as finer time resolution for the LSTM, resulted in better performance. 
 
- This project contributed to the results of the publicly funded research project funded by the german government called AIR PTE, standing for Artificial Intelligence Risk Prediction and Treatment Effect Estimation. 
+ This project contributed to the results of the publicly funded research project by the german government called AIR PTE, standing for Artificial Intelligence Risk Prediction and Treatment Effect Estimation. 
