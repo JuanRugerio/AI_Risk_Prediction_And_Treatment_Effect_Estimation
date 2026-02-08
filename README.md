@@ -9,6 +9,9 @@
 
  This project contributed to the results of the publicly funded research project by the german government called AIR PTE, standing for Artificial Intelligence Risk Prediction and Treatment Effect Estimation. 
 
+## How to run: 
+Since this project was developed with protected data, it is not possible to present it to the user to reproduce results. 
+
 ## Stack:
 
 Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, Numpy, Matplotlib
